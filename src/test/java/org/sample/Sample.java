@@ -14,7 +14,13 @@ public class Sample {
    
    System.out.println("Test4");
    
+<<<<<<< HEAD
+   System.out.println("Test6");
+
+   
+=======
    System.out.println("Test5");
+>>>>>>> 120ab6ad825b0239fa7b45e0e85d3596e50bd07f
 	}
 	
 
