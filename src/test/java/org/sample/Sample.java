@@ -3,28 +3,28 @@ package org.sample;
 import org.testng.annotations.Test;
 
 public class Sample {
-	
-	@Test
-	private void test() {
-   System.out.println("Test1");
-   
-   System.out.println("Test2");
 
-        System.out.println("Test9");
+    @Test
+    private void test() {
+        System.out.println("Test1");
+
+        System.out.println("Test2");
+
+        System.out.println("Test11");
 
 
         System.out.println("Test3");
+
+        System.out.println("Test4");
    
-   System.out.println("Test4");
-   
-<<<<<<< HEAD
-   System.out.println("Test6");
+<<<<<<<HEAD
+        System.out.println("Test6");
 
    
 =======
-   System.out.println("Test5");
->>>>>>> 120ab6ad825b0239fa7b45e0e85d3596e50bd07f
-	}
-	
+        System.out.println("Test5");
+>>>>>>>
 
+
+    }
 }
